@@ -133,7 +133,7 @@ All models use a **70-30 stratified train-test split**.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/Hospital-Bed-Capacity-Prediction.git
+   git clone https://github.com/Sumitlap04/Hospital-Bed-Capacity-Prediction.git
    cd Hospital-Bed-Capacity-Prediction
    ```
 
